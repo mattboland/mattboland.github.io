@@ -1,0 +1,66 @@
+
+h1{
+  font-size: 80px;
+  font-family: 'Amatic SC', cursive;
+}
+#about {
+  background-color: #03ddee;
+  padding-top: 10%;
+  padding-bottom: 50%;
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+}
+
+#contact {
+  padding-top: 40%;
+  padding-bottom: 20%;
+  font-family: 'Amatic SC', cursive;
+  
+}
+
+#projects {
+  text-align: center;
+  background-color: #bbbbbb;
+  padding-top: 10%;
+  padding-bottom: 50%;
+}
+
+.nav li {
+  display: inline;
+}
+
+.nav a {
+  color: #5a5a5a;
+  font-size: 20px;
+  font-family: 'Amatic SC', cursive;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+#Top {
+  background-color: #bbbbbb;
+  padding-top: 15%;
+  padding-bottom: 50%;
+  font-family: 'Amatic SC', cursive;
+  
+}
+
+h1 a {
+  color: #ffffff;
+  font-family: 'Amatic SC', cursive;
+  font-size: 70px;
+}
+
+#projects {
+  color: #ffffff;
+  font-family: 'Amatic SC', cursive;
+  font-size: 60px;
+}
+
+.thumbnail {
+  padding-top: 10%;
+  padding-bottom: 20%;
+  
+  font-family: 'Amatic SC', cursive;
+}
